@@ -1,0 +1,4 @@
+PowerShell
+
+Uninstall-WindowsFeature –Name FS-SMB1 –Remove
+
